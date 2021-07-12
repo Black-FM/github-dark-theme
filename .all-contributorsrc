@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "vinyldarkscratch",
+      "name": "Queen Vinyl Darkscratch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5179191?v=4",
+      "profile": "https://www.queengoob.org",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "github-dark-theme",
+  "projectOwner": "poychang",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
