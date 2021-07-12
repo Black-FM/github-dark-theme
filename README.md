@@ -51,6 +51,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://blog.poychang.net"><img src="https://avatars.githubusercontent.com/u/4879879?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Poy Chang</b></sub></a><br /><a href="https://github.com/poychang/github-dark-theme/commits?author=poychang" title="Code">💻</a> <a href="#design-poychang" title="Design">🎨</a></td>
+    <td align="center"><a href="https://www.queengoob.org"><img src="https://avatars.githubusercontent.com/u/5179191?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Queen Vinyl Darkscratch</b></sub></a><br /><a href="https://github.com/poychang/github-dark-theme/commits?author=vinyldarkscratch" title="Code">💻</a> <a href="#design-vinyldarkscratch" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/vladgogo"><img src="https://avatars.githubusercontent.com/u/22305539?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vlad Mikhaylovskiy</b></sub></a><br /><a href="https://github.com/poychang/github-dark-theme/commits?author=vladgogo" title="Code">💻</a> <a href="#design-vladgogo" title="Design">🎨</a></td>
+    <td align="center"><a href="https://jiaming0708.github.io"><img src="https://avatars.githubusercontent.com/u/8855285?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jimmy</b></sub></a><br /><a href="https://github.com/poychang/github-dark-theme/commits?author=jiaming0708" title="Code">💻</a> <a href="#design-jiaming0708" title="Design">🎨</a></td>
+    <td align="center"><a href="http://cathaloc.dev"><img src="https://avatars.githubusercontent.com/u/6561327?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cathal O'Callaghan</b></sub></a><br /><a href="https://github.com/poychang/github-dark-theme/commits?author=IamCathal" title="Code">💻</a> <a href="#design-IamCathal" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/huyenltnguyen"><img src="https://avatars.githubusercontent.com/u/25715018?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Huyen Nguyen</b></sub></a><br /><a href="#design-huyenltnguyen" title="Design">🎨</a></td>
   </tr>
 </table>
