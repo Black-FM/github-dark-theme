@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "vovanmix",
+      "name": "Vladimir Mikhaylovskiy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7279514?v=4",
+      "profile": "https://github.com/vovanmix",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "github-dark-theme",
+  "projectOwner": "poychang",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
