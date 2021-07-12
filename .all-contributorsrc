@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "huyenltnguyen",
+      "name": "Huyen Nguyen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25715018?v=4",
+      "profile": "https://github.com/huyenltnguyen",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "github-dark-theme",
+  "projectOwner": "poychang",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
